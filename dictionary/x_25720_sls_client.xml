@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element audit="true" label="Client" max_length="40" name="x_25720_sls_client" type="collection">
+        <element label="DOB" max_length="255" name="dob" type="string_full_utf8"/>
+        <element label="First name" max_length="255" name="first_name" type="string_full_utf8"/>
+        <element label="Insurance ID" max_length="255" name="insurance_id" type="string_full_utf8"/>
+        <element label="Last name" max_length="255" name="last_name" type="string_full_utf8"/>
+        <element label="Middle name" max_length="255" name="middle_name" type="string_full_utf8"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" read_only="true" type="string"/>
+        <element label="Program" max_length="32" name="program" reference="x_25720_sls_program" type="reference"/>
+        <element label="SSN" max_length="255" name="ssn" type="string_full_utf8"/>
+        <element label="Notes" max_length="4000" name="u_notes" type="journal"/>
+        <index name="index">
+            <element name="program"/>
+        </index>
+    </element>
+</database>

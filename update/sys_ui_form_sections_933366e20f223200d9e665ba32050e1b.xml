@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="933366e20f223200d9e665ba32050e1b" sys_domain="global" table="sp_instance_link" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-05-08 18:57:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1f3366e20f223200d9e665ba32050e1b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="sp_instance_link" name="sp_instance_link" sys_domain="global" view="6de12e620f223200d9e665ba32050e6f">933366e20f223200d9e665ba32050e1b</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="sp_instance_link" sys_domain="global" view="6de12e620f223200d9e665ba32050e6f">e9e12e620f223200d9e665ba32050e75</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-05-08 18:57:40</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-05-08 18:57:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>533366e20f223200d9e665ba32050e1d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="sp_instance_link" name="sp_instance_link" sys_domain="global" view="6de12e620f223200d9e665ba32050e6f">933366e20f223200d9e665ba32050e1b</sys_ui_form>
+            <sys_ui_section caption="sec" display_value="sec" name="sp_instance_link" sys_domain="global" view="6de12e620f223200d9e665ba32050e6f">173366e20f223200d9e665ba32050e1c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-05-08 18:57:40</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>sp_instance_link</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-05-08 18:57:40</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>933366e20f223200d9e665ba32050e1b</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_name>sp_instance_link</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="SLS" source="x_25720_sls">354867500fe23200d9e665ba32050e3b</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="SLS">354867500fe23200d9e665ba32050e3b</sys_scope>
+            <sys_update_name>sys_ui_form_sections_933366e20f223200d9e665ba32050e1b</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-05-08 18:57:40</sys_updated_on>
+            <sys_user/>
+            <view display_value="vi" name="vi">6de12e620f223200d9e665ba32050e6f</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
