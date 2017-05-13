@@ -8,7 +8,15 @@
         <element label="Name" max_length="40" name="name" type="string"/>
         <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
         <element label="Start date" max_length="40" name="start_date" type="glide_date"/>
-        <element label="State" max_length="40" name="state" type="string"/>
+        <element choice="3" label="State" max_length="40" name="state" type="integer">
+            <choice>
+                <element label="Active" value="3"/>
+                <element label="New" value="1"/>
+                <element label="On hold" value="4"/>
+                <element label="Retired" value="5"/>
+                <element label="Under review" value="2"/>
+            </choice>
+        </element>
         <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
         <element label="Type" max_length="40" name="type" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Description" max_length="5000" name="u_description" type="string_full_utf8"/>

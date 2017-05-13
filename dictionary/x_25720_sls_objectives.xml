@@ -2,5 +2,9 @@
 <database>
     <element label="Objectives" max_length="40" name="x_25720_sls_objectives" type="collection">
         <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Program" max_length="32" name="program" reference="x_25720_sls_program" type="reference"/>
+        <index name="index">
+            <element name="program"/>
+        </index>
     </element>
 </database>

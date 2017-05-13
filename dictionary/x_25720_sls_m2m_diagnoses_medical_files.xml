@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Sls M2m Diagnoses Medical Files" max_length="40" name="x_25720_sls_m2m_diagnoses_medical_files" type="collection">
+        <element label="Diagnoses" max_length="32" name="diagnoses" reference="x_25720_sls_diagnoses" type="reference"/>
+        <element label="Medical file" max_length="32" name="medical_file" reference="x_25720_sls_medical_file" type="reference"/>
+        <index name="index">
+            <element name="medical_file"/>
+        </index>
+        <index name="index2">
+            <element name="diagnoses"/>
+        </index>
+    </element>
+</database>

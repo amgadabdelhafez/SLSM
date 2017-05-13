@@ -5,29 +5,15 @@
             <element>u_notes</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-05-13 16:49:19</sys_created_on>
-            <sys_id>b7c577840f323200d9e665ba32050eb0</sys_id>
+            <sys_created_on>2017-05-13 18:52:45</sys_created_on>
+            <sys_id>8012d4180f723200d9e665ba32050eb9</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Notes" display_value="Notes" name="x_25720_sls_client" sys_domain="global" view="cf2080a00f663200d9e665ba32050eef">086004a00f663200d9e665ba32050e7e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-05-13 16:49:19</sys_updated_on>
+            <sys_updated_on>2017-05-13 18:52:45</sys_updated_on>
             <sys_user/>
             <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>activity.xml</element>
-            <position>1</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-05-13 16:49:19</sys_created_on>
-            <sys_id>3bc577840f323200d9e665ba32050eb0</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter display_value="Activities (filtered)">444ea5c6bf310100e628555b3f0739d6</sys_ui_formatter>
-            <sys_ui_section caption="Notes" display_value="Notes" name="x_25720_sls_client" sys_domain="global" view="cf2080a00f663200d9e665ba32050eef">086004a00f663200d9e665ba32050e7e</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-05-13 16:49:19</sys_updated_on>
-            <sys_user/>
-            <type>formatter</type>
         </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
             <caption>Notes</caption>

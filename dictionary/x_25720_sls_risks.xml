@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Risks" max_length="40" name="x_25720_sls_risks" type="collection">
+        <element label="ISP" max_length="32" name="isp" reference="x_25720_sls_individual_support_plan" type="reference"/>
+        <element label="Name" max_length="40" name="name" type="string"/>
+        <index name="index">
+            <element name="isp"/>
+        </index>
+    </element>
+</database>

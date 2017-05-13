@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Advance Directive" max_length="40" name="x_25720_sls_advance_directive" type="collection"/>
+</database>

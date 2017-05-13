@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_related sys_domain="global" table="x_25720_sls_medical_file" version="2" view="SLS">
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Medical file - SLS" name="x_25720_sls_medical_file" related_list="NULL" sys_domain="global" view="cf2080a00f663200d9e665ba32050eef">8e06ec900fb23200d9e665ba32050ec5</list_id>
+            <order_by/>
+            <position>0</position>
+            <related_list>x_25720_sls_diagnoses.medical_file</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-05-13 20:20:00</sys_created_on>
+            <sys_id>4a06ec900fb23200d9e665ba32050ec6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-05-13 20:20:00</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Medical file - SLS" name="x_25720_sls_medical_file" related_list="NULL" sys_domain="global" view="cf2080a00f663200d9e665ba32050eef">8e06ec900fb23200d9e665ba32050ec5</list_id>
+            <order_by/>
+            <position>1</position>
+            <related_list>x_25720_sls_allergies.medical_file</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-05-13 20:20:00</sys_created_on>
+            <sys_id>4206ec900fb23200d9e665ba32050ec7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-05-13 20:20:00</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list action="INSERT_OR_UPDATE">
+            <calculated_name>Medical file - SLS</calculated_name>
+            <filter/>
+            <name>x_25720_sls_medical_file</name>
+            <order_by/>
+            <position/>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-05-13 20:20:00</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8e06ec900fb23200d9e665ba32050ec5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Medical file - SLS</sys_name>
+            <sys_package display_value="SLS" source="x_25720_sls">354867500fe23200d9e665ba32050e3b</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="SLS">354867500fe23200d9e665ba32050e3b</sys_scope>
+            <sys_update_name>sys_ui_related_x_25720_sls_medical_file_SLS</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-05-13 20:20:00</sys_updated_on>
+            <sys_user/>
+            <view display_value="SLS" name="SLS">cf2080a00f663200d9e665ba32050eef</view>
+            <view_name/>
+        </sys_ui_related_list>
+    </sys_ui_related>
+</record_update>

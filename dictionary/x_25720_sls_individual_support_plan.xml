@@ -1,4 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element extends="x_25720_sls_plan" label="Individual Support Plan" max_length="40" name="x_25720_sls_individual_support_plan" type="collection"/>
+    <element extends="x_25720_sls_plan" label="Individual Support Plan" max_length="40" name="x_25720_sls_individual_support_plan" type="collection">
+        <element label="Action plans" max_length="32" name="action_plans" reference="x_25720_sls_action_plans" type="reference"/>
+        <element label="Meeting date" max_length="40" name="meeting_date" type="glide_date"/>
+        <element label="Plan end date" max_length="40" name="plan_end_date" type="glide_date"/>
+        <element label="Plan start date" max_length="40" name="plan_start_date" type="glide_date"/>
+        <element choice="1" label="State" max_length="40" name="state" type="choice">
+            <choice>
+                <element label="New" sequence="0" value="New"/>
+                <element label="Active" sequence="1" value="Active"/>
+                <element label="Ended" sequence="2" value="Ended"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Name" max_length="40" name="u_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Notes" max_length="4000" name="u_notes" type="string"/>
+        <index name="index">
+            <element name="action_plans"/>
+        </index>
+    </element>
 </database>

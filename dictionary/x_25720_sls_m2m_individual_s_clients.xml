@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Sls M2m Individual S Clients" max_length="40" name="x_25720_sls_m2m_individual_s_clients" type="collection">
+        <element label="Client" max_length="32" name="client" reference="x_25720_sls_client" type="reference"/>
+        <element label="Individual Support Plan" max_length="32" name="individual_support_plan" reference="x_25720_sls_individual_support_plan" type="reference"/>
+        <index name="index">
+            <element name="client"/>
+        </index>
+        <index name="index2">
+            <element name="individual_support_plan"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sys_import_set_row" label="Imp Tmpl X 25720 Sls Risks" max_length="40" name="u_imp_tmpl_x_25720_sls_risks" type="collection">
+        <element attributes="import_attribute_name=ISP,edge_encryption_enabled=true" label="ISP" max_length="32" name="u_isp" type="string"/>
+        <element attributes="import_attribute_name=Name,edge_encryption_enabled=true" label="Name" max_length="40" name="u_name" type="string"/>
+    </element>
+</database>

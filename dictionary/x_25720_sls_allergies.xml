@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Allergy" max_length="40" name="x_25720_sls_allergies" type="collection">
+        <element label="Medical file" max_length="32" name="medical_file" reference="x_25720_sls_medical_file" type="reference"/>
+        <index name="index">
+            <element name="medical_file"/>
+        </index>
+    </element>
+</database>
