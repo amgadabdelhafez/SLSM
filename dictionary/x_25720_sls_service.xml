@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
     <element audit="true" label="Service" max_length="40" name="x_25720_sls_service" type="collection">
+        <element label="Basis for Rate" max_length="100" name="basis_for_rate" type="string"/>
         <element label="Charge rate" max_length="40" name="charge_rate" type="integer"/>
         <element label="Description" max_length="5000" name="description" type="string"/>
         <element label="End date" max_length="40" name="end_date" type="glide_date"/>
         <element label="ID" max_length="40" name="id" type="string"/>
         <element label="Name" max_length="40" name="name" type="string"/>
+        <element label="Service Code" max_length="40" name="service_code" type="string"/>
         <element label="Start date" max_length="40" name="start_date" type="glide_date"/>
         <element label="State" max_length="40" name="state" type="string"/>
         <element label="Type" max_length="40" name="type" type="string"/>

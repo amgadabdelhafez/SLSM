@@ -16,10 +16,10 @@
             <sys_id>83f4ac900fb23200d9e665ba32050e98</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>Client</sys_name>
-            <sys_package display_value="SLS" source="x_25720_sls">354867500fe23200d9e665ba32050e3b</sys_package>
+            <sys_package display_value="SLSM" source="x_25720_sls">354867500fe23200d9e665ba32050e3b</sys_package>
             <sys_policy/>
             <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
-            <sys_scope display_value="SLS">354867500fe23200d9e665ba32050e3b</sys_scope>
+            <sys_scope display_value="SLSM">354867500fe23200d9e665ba32050e3b</sys_scope>
             <sys_update_name>sys_documentation_x_25720_sls_m2m_individual_s_clients_client_en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2017-05-13 20:15:26</sys_updated_on>

@@ -2,7 +2,7 @@
 <record_update sys_domain="global" table="sys_app_module">
     <sys_app_module action="INSERT_OR_UPDATE">
         <active>true</active>
-        <application display_value="SLS">0248ef940f263200d9e665ba32050e5f</application>
+        <application display_value="SLSM">0248ef940f263200d9e665ba32050e5f</application>
         <assessment/>
         <content_page/>
         <device_type/>
@@ -32,10 +32,10 @@
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Individual Support Plans</sys_name>
         <sys_overrides/>
-        <sys_package display_value="SLS" source="x_25720_sls">354867500fe23200d9e665ba32050e3b</sys_package>
+        <sys_package display_value="SLSM" source="x_25720_sls">354867500fe23200d9e665ba32050e3b</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
-        <sys_scope display_value="SLS">354867500fe23200d9e665ba32050e3b</sys_scope>
+        <sys_scope display_value="SLSM">354867500fe23200d9e665ba32050e3b</sys_scope>
         <sys_update_name>sys_app_module_7d9d72590f223200d9e665ba32050ea9</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2017-05-04 23:40:24</sys_updated_on>

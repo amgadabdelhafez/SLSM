@@ -7,14 +7,14 @@
         <licensable>true</licensable>
         <license_model>none</license_model>
         <logo/>
-        <menu display_value="SLS">0248ef940f263200d9e665ba32050e5f</menu>
-        <name>SLS</name>
+        <menu display_value="SLSM">0248ef940f263200d9e665ba32050e5f</menu>
+        <name>SLSM</name>
         <private>false</private>
         <restrict_table_access>false</restrict_table_access>
         <runtime_access_tracking>permissive</runtime_access_tracking>
         <scope>x_25720_sls</scope>
         <scoped_administration>false</scoped_administration>
-        <short_description/>
+        <short_description>Supported Living Services Management Application</short_description>
         <source>x_25720_sls</source>
         <store_correlation_id/>
         <store_url/>
@@ -23,9 +23,9 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-05-02 00:13:00</sys_created_on>
         <sys_id>354867500fe23200d9e665ba32050e3b</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-05-02 00:13:00</sys_updated_on>
+        <sys_updated_on>2017-06-03 02:05:50</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <user_role display_value="x_25720_sls.user" name="x_25720_sls.user">8248ef940f263200d9e665ba32050e63</user_role>

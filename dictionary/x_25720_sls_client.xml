@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element audit="true" label="Client" max_length="40" name="x_25720_sls_client" type="collection">
+    <element audit="true" label="Consumer file" max_length="40" name="x_25720_sls_client" type="collection">
         <element label="Admission date" max_length="40" name="admission_date" type="glide_date"/>
         <element choice="1" label="Admission status" max_length="40" name="admission_status" type="choice">
             <choice>

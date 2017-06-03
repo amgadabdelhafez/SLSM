@@ -16,17 +16,17 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>0248ef940f263200d9e665ba32050e5f</sys_id>
-        <sys_mod_count>1</sys_mod_count>
-        <sys_name>SLS</sys_name>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>SLSM</sys_name>
         <sys_overrides/>
-        <sys_package display_value="SLS" source="x_25720_sls">354867500fe23200d9e665ba32050e3b</sys_package>
+        <sys_package display_value="SLSM" source="x_25720_sls">354867500fe23200d9e665ba32050e3b</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
-        <sys_scope display_value="SLS">354867500fe23200d9e665ba32050e3b</sys_scope>
+        <sys_scope display_value="SLSM">354867500fe23200d9e665ba32050e3b</sys_scope>
         <sys_update_name>sys_app_application_0248ef940f263200d9e665ba32050e5f</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-05-02 00:13:00</sys_updated_on>
-        <title>SLS</title>
+        <sys_updated_on>2017-06-03 02:04:14</sys_updated_on>
+        <title>SLSM</title>
         <view_name/>
     </sys_app_application>
 </record_update>

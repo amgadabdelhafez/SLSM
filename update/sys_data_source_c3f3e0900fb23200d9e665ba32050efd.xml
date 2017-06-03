@@ -46,10 +46,10 @@
         <sys_id>c3f3e0900fb23200d9e665ba32050efd</sys_id>
         <sys_mod_count>1</sys_mod_count>
         <sys_name>x_25720_sls_risks.xlsx (Uploaded)</sys_name>
-        <sys_package display_value="SLS" source="x_25720_sls">354867500fe23200d9e665ba32050e3b</sys_package>
+        <sys_package display_value="SLSM" source="x_25720_sls">354867500fe23200d9e665ba32050e3b</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
-        <sys_scope display_value="SLS">354867500fe23200d9e665ba32050e3b</sys_scope>
+        <sys_scope display_value="SLSM">354867500fe23200d9e665ba32050e3b</sys_scope>
         <sys_update_name>sys_data_source_c3f3e0900fb23200d9e665ba32050efd</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2017-05-13 20:11:05</sys_updated_on>
