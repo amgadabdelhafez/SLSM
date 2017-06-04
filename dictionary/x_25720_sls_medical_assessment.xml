@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Medical assessment" max_length="40" name="x_25720_sls_medical_assessment" type="collection">
+        <element label="Ability Level" max_length="40" name="ability_level" type="string"/>
+        <element label="Functioning level" max_length="40" name="functioning_level" type="string"/>
+        <element label="Medical evaluation" max_length="40" name="medical_evaluation" type="string"/>
+        <element label="Notes from Regional Center" max_length="40" name="notes_from_regional_center" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Psychological evaluation" max_length="40" name="psychological_evaluation" type="string"/>
+        <element label="Social evaluation" max_length="40" name="social_evaluation" type="string"/>
+    </element>
+</database>

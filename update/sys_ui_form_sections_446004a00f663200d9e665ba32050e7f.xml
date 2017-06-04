@@ -22,12 +22,12 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>4fc25c180f723200d9e665ba32050eed</sys_id>
-            <sys_mod_count>1</sys_mod_count>
+            <sys_mod_count>3</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="x_25720_sls_client" name="x_25720_sls_client" sys_domain="global" view="cf2080a00f663200d9e665ba32050eef">446004a00f663200d9e665ba32050e7f</sys_ui_form>
             <sys_ui_section caption="ID Information" display_value="ID Information" name="x_25720_sls_client" sys_domain="global" view="cf2080a00f663200d9e665ba32050eef">0bc25c180f723200d9e665ba32050eea</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-05-13 18:55:58</sys_updated_on>
+            <sys_updated_on>2017-06-04 18:07:21</sys_updated_on>
         </sys_ui_form_section>
         <sys_ui_form_section action="INSERT_OR_UPDATE">
             <position>2</position>
@@ -36,26 +36,26 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>cfbb8c900f723200d9e665ba32050e11</sys_id>
-            <sys_mod_count>2</sys_mod_count>
+            <sys_mod_count>4</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="x_25720_sls_client" name="x_25720_sls_client" sys_domain="global" view="cf2080a00f663200d9e665ba32050eef">446004a00f663200d9e665ba32050e7f</sys_ui_form>
             <sys_ui_section caption="Admission information" display_value="Admission information" name="x_25720_sls_client" sys_domain="global" view="cf2080a00f663200d9e665ba32050eef">47bb8c900f723200d9e665ba32050e0f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-05-13 18:55:58</sys_updated_on>
+            <sys_updated_on>2017-06-04 18:07:22</sys_updated_on>
         </sys_ui_form_section>
         <sys_ui_form_section action="INSERT_OR_UPDATE">
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-05-02 01:58:16</sys_created_on>
+            <sys_created_on>2017-06-04 00:29:44</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>486004a00f663200d9e665ba32050e82</sys_id>
-            <sys_mod_count>4</sys_mod_count>
+            <sys_id>c198a1c30f033200d9e665ba32050e43</sys_id>
+            <sys_mod_count>2</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="x_25720_sls_client" name="x_25720_sls_client" sys_domain="global" view="cf2080a00f663200d9e665ba32050eef">446004a00f663200d9e665ba32050e7f</sys_ui_form>
-            <sys_ui_section caption="Notes" display_value="Notes" name="x_25720_sls_client" sys_domain="global" view="cf2080a00f663200d9e665ba32050eef">086004a00f663200d9e665ba32050e7e</sys_ui_section>
+            <sys_ui_section caption="Case notes" display_value="Case notes" name="x_25720_sls_client" sys_domain="global" view="cf2080a00f663200d9e665ba32050eef">cd98a1c30f033200d9e665ba32050e3f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-05-13 18:55:58</sys_updated_on>
+            <sys_updated_on>2017-06-04 18:07:22</sys_updated_on>
         </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_25720_sls_client</name>

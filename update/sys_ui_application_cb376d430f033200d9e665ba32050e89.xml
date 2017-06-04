@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_application">
+    <sys_ui_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <hint/>
+        <name>SLSM</name>
+        <order/>
+        <roles>x_25720_sls.user</roles>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-06-04 00:23:51</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>cb376d430f033200d9e665ba32050e89</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SLSM</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="SLSM" source="x_25720_sls">354867500fe23200d9e665ba32050e3b</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SLSM">354867500fe23200d9e665ba32050e3b</sys_scope>
+        <sys_update_name>sys_ui_application_cb376d430f033200d9e665ba32050e89</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-06-04 00:23:51</sys_updated_on>
+    </sys_ui_application>
+</record_update>
