@@ -2,13 +2,18 @@
 <database>
     <element audit="true" label="Program" max_length="40" name="x_25720_sls_program" type="collection">
         <element label="Cient" max_length="32" name="cient" reference="x_25720_sls_client" type="reference"/>
+        <element label="Duty statement" max_length="40" name="duty_statement" type="string"/>
         <element label="End date" max_length="40" name="end_date" type="glide_date"/>
         <element label="ID" max_length="40" name="id" type="string"/>
         <element label="Location" max_length="32" name="location" reference="cmn_location_type" type="reference"/>
         <element label="Name" max_length="40" name="name" type="string"/>
         <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Organizational chart for the facility" max_length="40" name="organizational_chart_for_the_facility" type="string"/>
+        <element label="Preparation functions" max_length="500" name="preparation_functions" type="string"/>
+        <element label="Staff qualifications" max_length="40" name="staff_qualifications" type="string"/>
+        <element label="Staff schedule" max_length="40" name="staff_schedule" type="string"/>
         <element label="Start date" max_length="40" name="start_date" type="glide_date"/>
-        <element choice="3" label="State" max_length="40" name="state" type="integer">
+        <element choice="3" default="3" label="State" max_length="40" name="state" type="integer">
             <choice>
                 <element label="Active" value="3"/>
                 <element label="New" value="1"/>
@@ -17,7 +22,9 @@
                 <element label="Under review" value="2"/>
             </choice>
         </element>
+        <element label="Statement of purpose" max_length="500" name="statement_of_purpose" type="string"/>
         <element default="javascript:current.getTableName();" dynamic_default_value="b5cb83a85f220100a9ad2572f2b4773c" label="Class" max_length="80" name="sys_class_name" type="sys_class_name" use_dynamic_default="true"/>
+        <element label="Training plan" max_length="40" name="training_plan" type="string"/>
         <element label="Type" max_length="40" name="type" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Description" max_length="5000" name="u_description" type="string_full_utf8"/>
         <element label="Notes" max_length="4000" name="u_notes" type="journal"/>

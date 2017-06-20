@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="Program Staff" section_id="43874ce40f233200d9e665ba32050eaa" sys_domain="global" table="x_25720_sls_program" version="3" view="SLS">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>organizational_chart_for_the_facility</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-20 19:32:23</sys_created_on>
+            <sys_id>cf874ce40f233200d9e665ba32050ed0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Program Staff" display_value="Program Staff" name="x_25720_sls_program" sys_domain="global" view="cf2080a00f663200d9e665ba32050eef">43874ce40f233200d9e665ba32050eaa</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-20 19:32:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>staff_qualifications</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-20 19:32:23</sys_created_on>
+            <sys_id>43874ce40f233200d9e665ba32050ed1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Program Staff" display_value="Program Staff" name="x_25720_sls_program" sys_domain="global" view="cf2080a00f663200d9e665ba32050eef">43874ce40f233200d9e665ba32050eaa</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-20 19:32:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-20 19:32:23</sys_created_on>
+            <sys_id>c3874ce40f233200d9e665ba32050ed1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Program Staff" display_value="Program Staff" name="x_25720_sls_program" sys_domain="global" view="cf2080a00f663200d9e665ba32050eef">43874ce40f233200d9e665ba32050eaa</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-20 19:32:23</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>staff_schedule</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-20 19:32:23</sys_created_on>
+            <sys_id>47874ce40f233200d9e665ba32050ed1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Program Staff" display_value="Program Staff" name="x_25720_sls_program" sys_domain="global" view="cf2080a00f663200d9e665ba32050eef">43874ce40f233200d9e665ba32050eaa</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-20 19:32:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>training_plan</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-20 19:32:23</sys_created_on>
+            <sys_id>c7874ce40f233200d9e665ba32050ed1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Program Staff" display_value="Program Staff" name="x_25720_sls_program" sys_domain="global" view="cf2080a00f663200d9e665ba32050eef">43874ce40f233200d9e665ba32050eaa</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-20 19:32:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Program Staff</caption>
+            <header>false</header>
+            <name>x_25720_sls_program</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-20 19:32:23</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>43874ce40f233200d9e665ba32050eaa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Program Staff</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="SLSM" source="x_25720_sls">354867500fe23200d9e665ba32050e3b</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="SLSM">354867500fe23200d9e665ba32050e3b</sys_scope>
+            <sys_update_name>sys_ui_section_43874ce40f233200d9e665ba32050eaa</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-20 19:32:23</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="SLS" name="SLS">cf2080a00f663200d9e665ba32050eef</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

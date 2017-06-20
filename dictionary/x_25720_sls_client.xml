@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element audit="true" label="Consumer file" max_length="40" name="x_25720_sls_client" type="collection">
+    <element audit="true" label="Consumer" max_length="40" name="x_25720_sls_client" type="collection">
         <element label="Admission date" max_length="40" name="admission_date" type="glide_date"/>
         <element choice="1" label="Admission status" max_length="40" name="admission_status" type="choice">
             <choice>
@@ -46,7 +46,6 @@
                 <element label="Discharged" sequence="2" value="Discharged"/>
             </choice>
         </element>
-        <element attributes="base_start=true" default="x_25720_sls_case_note" label="New Table Name" max_length="80" name="u_table_name_1" type="table_name"/>
         <element label="Weight" max_length="40" name="weight" type="string"/>
         <index name="index">
             <element name="isp"/>

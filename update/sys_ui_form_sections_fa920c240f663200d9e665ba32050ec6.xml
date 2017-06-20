@@ -25,9 +25,23 @@
             <sys_mod_count>0</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="x_25720_sls_program" name="x_25720_sls_program" sys_domain="global" view="cf2080a00f663200d9e665ba32050eef">fa920c240f663200d9e665ba32050ec6</sys_ui_form>
-            <sys_ui_section caption="Details" display_value="Details" name="x_25720_sls_program" sys_domain="global" view="cf2080a00f663200d9e665ba32050eef">be920c240f663200d9e665ba32050ec5</sys_ui_section>
+            <sys_ui_section caption="Program Details" display_value="Program Details" name="x_25720_sls_program" sys_domain="global" view="cf2080a00f663200d9e665ba32050eef">be920c240f663200d9e665ba32050ec5</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2017-05-02 02:08:01</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-20 19:32:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>83874ce40f233200d9e665ba32050ead</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_25720_sls_program" name="x_25720_sls_program" sys_domain="global" view="cf2080a00f663200d9e665ba32050eef">fa920c240f663200d9e665ba32050ec6</sys_ui_form>
+            <sys_ui_section caption="Program Staff" display_value="Program Staff" name="x_25720_sls_program" sys_domain="global" view="cf2080a00f663200d9e665ba32050eef">43874ce40f233200d9e665ba32050eaa</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-20 19:32:23</sys_updated_on>
         </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_25720_sls_program</name>

@@ -3,7 +3,7 @@
     <sys_ui_related sys_domain="global" table="x_25720_sls_client" version="2" view="">
         <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
             <filter/>
-            <list_id display_value="Consumer file - Default view" name="x_25720_sls_client" related_list="NULL" sys_domain="global" view="Default view">e8f7ed430f033200d9e665ba32050e79</list_id>
+            <list_id display_value="Consumer - Default view" name="x_25720_sls_client" related_list="NULL" sys_domain="global" view="Default view">e8f7ed430f033200d9e665ba32050e79</list_id>
             <order_by/>
             <position>0</position>
             <related_list>x_25720_sls_medical_file.client</related_list>
@@ -17,7 +17,7 @@
         </sys_ui_related_list_entry>
         <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
             <filter/>
-            <list_id display_value="Consumer file - Default view" name="x_25720_sls_client" related_list="NULL" sys_domain="global" view="Default view">e8f7ed430f033200d9e665ba32050e79</list_id>
+            <list_id display_value="Consumer - Default view" name="x_25720_sls_client" related_list="NULL" sys_domain="global" view="Default view">e8f7ed430f033200d9e665ba32050e79</list_id>
             <order_by/>
             <position>1</position>
             <related_list>x_25720_sls_medical_record.client</related_list>
@@ -31,7 +31,7 @@
         </sys_ui_related_list_entry>
         <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
             <filter/>
-            <list_id display_value="Consumer file - Default view" name="x_25720_sls_client" related_list="NULL" sys_domain="global" view="Default view">e8f7ed430f033200d9e665ba32050e79</list_id>
+            <list_id display_value="Consumer - Default view" name="x_25720_sls_client" related_list="NULL" sys_domain="global" view="Default view">e8f7ed430f033200d9e665ba32050e79</list_id>
             <order_by/>
             <position>2</position>
             <related_list>x_25720_sls_program.cient</related_list>
@@ -45,7 +45,7 @@
         </sys_ui_related_list_entry>
         <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
             <filter/>
-            <list_id display_value="Consumer file - Default view" name="x_25720_sls_client" related_list="NULL" sys_domain="global" view="Default view">e8f7ed430f033200d9e665ba32050e79</list_id>
+            <list_id display_value="Consumer - Default view" name="x_25720_sls_client" related_list="NULL" sys_domain="global" view="Default view">e8f7ed430f033200d9e665ba32050e79</list_id>
             <order_by/>
             <position>3</position>
             <related_list>x_25720_sls_individual_services_plan.client</related_list>
@@ -59,7 +59,7 @@
         </sys_ui_related_list_entry>
         <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
             <filter/>
-            <list_id display_value="Consumer file - Default view" name="x_25720_sls_client" related_list="NULL" sys_domain="global" view="Default view">e8f7ed430f033200d9e665ba32050e79</list_id>
+            <list_id display_value="Consumer - Default view" name="x_25720_sls_client" related_list="NULL" sys_domain="global" view="Default view">e8f7ed430f033200d9e665ba32050e79</list_id>
             <order_by/>
             <position>4</position>
             <related_list>x_25720_sls_individual_support_plan.client</related_list>
@@ -73,7 +73,7 @@
         </sys_ui_related_list_entry>
         <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
             <filter/>
-            <list_id display_value="Consumer file - Default view" name="x_25720_sls_client" related_list="NULL" sys_domain="global" view="Default view">e8f7ed430f033200d9e665ba32050e79</list_id>
+            <list_id display_value="Consumer - Default view" name="x_25720_sls_client" related_list="NULL" sys_domain="global" view="Default view">e8f7ed430f033200d9e665ba32050e79</list_id>
             <order_by/>
             <position>5</position>
             <related_list>x_25720_sls_individual_habilitation_plan.client</related_list>
@@ -87,7 +87,7 @@
         </sys_ui_related_list_entry>
         <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
             <filter/>
-            <list_id display_value="Consumer file - Default view" name="x_25720_sls_client" related_list="NULL" sys_domain="global" view="Default view">e8f7ed430f033200d9e665ba32050e79</list_id>
+            <list_id display_value="Consumer - Default view" name="x_25720_sls_client" related_list="NULL" sys_domain="global" view="Default view">e8f7ed430f033200d9e665ba32050e79</list_id>
             <order_by/>
             <position>6</position>
             <related_list>x_25720_sls_case_note.client</related_list>
@@ -100,7 +100,7 @@
             <sys_updated_on>2017-06-04 00:26:58</sys_updated_on>
         </sys_ui_related_list_entry>
         <sys_ui_related_list action="INSERT_OR_UPDATE">
-            <calculated_name>Consumer file - Default view</calculated_name>
+            <calculated_name>Consumer - Default view</calculated_name>
             <filter/>
             <name>x_25720_sls_client</name>
             <order_by/>

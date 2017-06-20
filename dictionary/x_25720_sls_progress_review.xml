@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
     <element label="Progress Review" max_length="40" name="x_25720_sls_progress_review" type="collection">
+        <element label="IPP" max_length="32" name="ipp" reference="x_25720_sls_ipp" type="reference"/>
         <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <index name="index">
+            <element name="ipp"/>
+        </index>
     </element>
 </database>

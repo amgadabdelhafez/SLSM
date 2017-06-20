@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="IPP" max_length="40" name="x_25720_sls_ipp" type="collection">
+        <element label="Consumer" max_length="32" name="consumer" reference="x_25720_sls_client" type="reference"/>
+        <element label="ID" max_length="40" name="id" type="string"/>
+        <element label="IPP Meeting Date" max_length="40" name="ipp_meeting_date" type="glide_date_time"/>
+        <element label=" IPP meeting Participants " max_length="40" name="ipp_meeting_participants" type="string"/>
+        <element label="Name" max_length="40" name="name" type="string"/>
+        <element label="Service level" max_length="40" name="service_level" type="string"/>
+        <index name="index">
+            <element name="consumer"/>
+        </index>
+    </element>
+</database>
